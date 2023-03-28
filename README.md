@@ -2,8 +2,10 @@
 
 - 📖 Sou estudante de Desenvolvimento de Software Multiplataforma(DSM) na Fatec de Araras.
 
-- 🖥 Tenho conhecimento nas linguagens de programação: <br>
+- 🖥 Tenho conhecimento nas linguagens: <br>
  C++, C#, HTML, CSS, Bootstrap, Vue, Python e SQL.
+ 
+- ⚙️ Atualmente trabalho com COBOL
 
 <div>
   <a href="https://github.com/MuriloAltoe">
