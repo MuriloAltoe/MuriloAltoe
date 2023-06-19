@@ -5,14 +5,14 @@
 - 🖥 Tenho conhecimento nas linguagens: <br>
  C++, C#, HTML, CSS, Bootstrap, Vue, Python e SQL.
  
-- ⚙️ Atualmente trabalho com COBOL
+- ⚙️ Atualmente trabalho com desenvolvimento back-end COBOL
 
-<div>
+<!-- <div>
   <a href="https://github.com/MuriloAltoe">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloAltoe&show_icons=true&theme=radical"> 
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAltoe&layout=compact&theme=radical"
 </div>
-<hr> 
+<hr>  -->
     
 <div>   
   <img alt="C++" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
