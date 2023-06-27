@@ -3,8 +3,8 @@
 - 📖 Sou estudante de Desenvolvimento de Software Multiplataforma(DSM) na Fatec de Araras.
 
 - 🖥 Tenho conhecimento nas linguagens: <br>
- C++, C#, HTML, CSS, Bootstrap, Vue, Python e SQL.
- 
+ C++, C#, HTML, JavaScript, Vue, Python, Java e SQL.
+
 - ⚙️ Atualmente trabalho com desenvolvimento back-end COBOL
 
 <!-- <div>
