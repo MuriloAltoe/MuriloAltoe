@@ -2,7 +2,10 @@
 
 - 🦖 COBOL/IsCobol developer.
 
-- 📖 Studying as a technologist in multiplatform software development at Fatec de Araras.
+- 🏅 Graduated as a technologist in multiplatform software development at Fatec de Araras.
+
+- 📖 Doing a postgraduate degree in Architecture and Java development at FIAP.
+  
 <hr>
 
 ### Skills:
